@@ -2,8 +2,8 @@
 (badges)
 
 ## Contributions
- * @farnabaz for the initial solution
- * @mackermedia for the optimizations
+ * [@farnabaz](https://github.com/farnabaz) for the initial solution
+ * [@mackermedia](https://github.com/mackermedia) for the optimizations
  
 ## Quickstart
 
