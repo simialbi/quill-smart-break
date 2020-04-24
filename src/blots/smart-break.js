@@ -1,5 +1,7 @@
-import Break from 'quill/blots/break';
-import Embed from 'quill/blots/embed';
+import Quill from 'quill';
+
+const Embed = Quill.import('blots/embed');
+const Break = Quill.import('blots/break');
 
 class SmartBreak extends Break {
     length() {

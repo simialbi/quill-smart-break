@@ -1,8 +1,11 @@
 {
   "name": "quill-smart-break",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Support shift + enter in Quill WYSIWYG editor",
   "main": "dist/smart-breaker.js",
+  "repository": {
+    "url": "https://github.com/simialbi/yii2-quill"
+  },
   "files": [
     "src/blots",
     "src/smart-breaker.js",

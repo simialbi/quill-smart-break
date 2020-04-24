@@ -56,18 +56,14 @@ const baseConfig = {
     mode: 'development',
     context: path.resolve(__dirname, 'src'),
     entry: {
-        'smart-breaker.js': ['./smart-breaker.js']
+        'smart-breaker.js': './smart-breaker.js'
     },
     output: {
         filename: '[name]',
-        library: 'Quill',
-        libraryExport: 'default',
-        libraryTarget: 'umd',
         path: path.resolve(__dirname, 'dist')
     },
-    resolve: {
-        alias: {},
-        extensions: ['.js']
+    externals: {
+        quill: 'Quill'
     },
     module: {
         rules: [jsRules],
