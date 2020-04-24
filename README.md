@@ -1,5 +1,6 @@
 # Smart Break for [Quill WYSIWYG Editor](https://quilljs.com/)
-(badges)
+[![npm version](https://badge.fury.io/js/quill-smart-break.svg)](https://badge.fury.io/js/quill-smart-break)
+![License](https://img.shields.io/npm/l/quill-smart-break)
 
 ## Contributions
  * [@farnabaz](https://github.com/farnabaz) for the initial solution
