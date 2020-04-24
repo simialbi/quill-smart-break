@@ -1,7 +1,7 @@
 {
   "name": "quill-smart-break",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "Support shift + enter in Quill WYSIWYG editor",
   "main": "dist/smart-breaker.js",
   "files": [
     "src/blots",

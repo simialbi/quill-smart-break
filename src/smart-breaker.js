@@ -5,6 +5,10 @@ import Keyboard from 'quill/modules/keyboard'
 import SmartBreak from './blots/smart-break';
 
 class SmartBreaker extends Module {
+    static register() {
+        Quill.register(SmartBreak, true);
+    }
+
     constructor(quill, options) {
         super(quill, options);
 

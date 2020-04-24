@@ -6,6 +6,7 @@ const bannerPack = new webpack.BannerPlugin({
     banner: [
         `Quill Smart Break v${pkg.version}`,
         'https://github.com/simialbi/quill-smart-break',
+        'Copyright (c) 2017, Ahad Birang',
         'Copyright (c) 2017, Mike Ackerman',
         'Copyright (c) 2020, Simon Karlen'
     ].join('\n'),
