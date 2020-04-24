@@ -50,6 +50,5 @@ class SmartBreaker {
 }
 
 Quill.register('modules/smart-breaker', SmartBreaker);
-debugger;
 
 export default SmartBreaker;
