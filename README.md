@@ -3,6 +3,7 @@
 ![License](https://img.shields.io/npm/l/quill-smart-break)
 
 ## Contributions
+Thx to
  * [@farnabaz](https://github.com/farnabaz) for the initial solution
  * [@mackermedia](https://github.com/mackermedia) for the optimizations
  
