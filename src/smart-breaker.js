@@ -1,5 +1,5 @@
 import Quill from 'quill';
-import Delta from 'quill-delta/dist/Delta';
+import Delta from 'quill-delta';
 import SmartBreak from './blots/smart-break';
 
 class SmartBreaker {
